@@ -1,5 +1,5 @@
 - Zed
 - Vim
-- Rust, C++, C#
-- Arduino, esp32
+- Rust, C++, C#, Typescript
+- Arduino, Esp32
 - Unity, Godot
